@@ -1,0 +1,11 @@
+Package: com.jijiang.lickingdog
+Name: LickingDog
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: 心动雷达：抖音前台好友动态与喜欢作品记录
+Maintainer: jijiang2333
+Author: jijiang2333
+Section: Tweaks
+Priority: optional
+Depends: firmware (>= 14.0), mobilesubstrate
+Homepage: https://github.com/jijiang2333/LickingDog
